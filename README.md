@@ -28,21 +28,23 @@ A web-based Finance Management System built with Django that helps users track a
 - Monthly analytics and reports
 - Graphical visualization of spending trends
 
-## Getting Started
+## Requirements
 
-### Install Dependencies
+Install all required packages using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the Server
+## Running the Project
+
+Start the Django development server:
 
 ```bash
 python manage.py runserver
 ```
 
-### Open in Browser
+Open your browser and visit:
 
 ```
 http://127.0.0.1:8000/
@@ -58,4 +60,4 @@ http://127.0.0.1:8000/
 
 ## License
 
-This project is developed for learning and personal finance management purposes.# Finance-System
+This project is developed for learning and personal finance management purposes.

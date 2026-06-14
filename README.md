@@ -39,17 +39,13 @@ pip install -r requirements.txt
 ## Running the Project
 
 Start the Django development server:
-
 ```bash
 python manage.py runserver
 ```
-
 Open your browser and visit:
-
 ```
 http://127.0.0.1:8000/
 ```
-
 ## Future Enhancements
 
 - User authentication and authorization

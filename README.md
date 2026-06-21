@@ -36,6 +36,7 @@ Install all required packages using the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
+
 ## Running the Project
 
 Start the Django development server:
